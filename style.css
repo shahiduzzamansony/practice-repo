@@ -52,3 +52,21 @@ h1 {
 #div-bottom {
     margin-top: 35px;
 }
+
+#third-heading {
+    text-align: center;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 120px;
+}
+
+.border-system {
+    width: 45%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-top: 5%;
+    box-shadow: 30px 30px 35px gray;
+    border-radius: 60px;
+}
